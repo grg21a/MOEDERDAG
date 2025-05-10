@@ -16,6 +16,10 @@ section:first-of-type {
   rotate: 10deg;
 }
 
+main {
+  width: 100%;
+}
+
   .el {
     width: 2em;
     height: 2em;
