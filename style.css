@@ -20,6 +20,10 @@ main {
   width: 100%;
 }
 
+body {
+  width: 100%;
+}
+
   .el {
     width: 2em;
     height: 2em;
